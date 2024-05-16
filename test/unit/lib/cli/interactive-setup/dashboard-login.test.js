@@ -24,11 +24,11 @@ const ServerlessSDKMock = class ServerlessSDK {
             'nodejs14.x',
             'nodejs16.x',
             'nodejs18.x',
-            'python3.7',
             'python3.8',
             'python3.9',
             'python3.10',
             'python3.11',
+            'python3.12',
           ],
           supportedRegions: [
             'us-east-1',
